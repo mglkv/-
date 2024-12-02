@@ -1,0 +1,7 @@
+{
+    "graph_tool_path": "/usr/local/bin/dot",
+    "package_name": "Microsoft.AspNetCore.Mvc, Version=2.2.0",
+    "output_path": "/Users/mglkv/DependencyVisualizer/output_graph.dot",
+    "repository_url": "https://api.nuget.org/v3/registration5-gz-semver2"
+}
+
